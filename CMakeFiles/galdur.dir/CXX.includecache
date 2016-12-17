@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/survari/Survari/Projekte/C++/galdur/main.cpp
+stdio.h
+-
+iostream
+-
+sstream
+-
+sys/parser.cpp
+/run/media/survari/Survari/Projekte/C++/galdur/sys/parser.cpp
+
+/run/media/survari/Survari/Projekte/C++/galdur/sys/a1z26.h
+
+/run/media/survari/Survari/Projekte/C++/galdur/sys/cellops.h
+iostream
+-
+vector
+-
+
+/run/media/survari/Survari/Projekte/C++/galdur/sys/parser.cpp
+iostream
+-
+vector
+-
+a1z26.h
+/run/media/survari/Survari/Projekte/C++/galdur/sys/a1z26.h
+cellops.h
+/run/media/survari/Survari/Projekte/C++/galdur/sys/cellops.h
+

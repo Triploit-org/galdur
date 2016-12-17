@@ -1,0 +1,3 @@
+/run/media/survari/Survari/Projekte/C++/galdur/CMakeFiles/edit_cache.dir
+/run/media/survari/Survari/Projekte/C++/galdur/CMakeFiles/rebuild_cache.dir
+/run/media/survari/Survari/Projekte/C++/galdur/CMakeFiles/galdur.dir
